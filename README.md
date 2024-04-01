@@ -1,9 +1,9 @@
 ### Hi there 👋
 
 Eu sou a Rafaela santos, é estou estudando na área de programação, é busco a minha primeira oportunidade na área como front end,
-atualamente trabalho na área de metalugica.
+atualmente trabalho na área de metalugica.
 
-estou deselvolvendo projetos atualmente com:
+estou desenvolvendo projetos atualmente com:
 <br>
 <br>
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
